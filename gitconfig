@@ -53,5 +53,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = @users.noreply.github.com
+	email = users.noreply.github.com
 	name = vinicio oliveira
